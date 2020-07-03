@@ -11,7 +11,4 @@ Através de uma parceria entre Universidade Federal do ABC (UFABC) e a Universid
 Para facilitar o gerenciamento logístico de pedido, produção e transporte do projeto CRIA, é de fundamental importância criar uma ferramenta em forma de sistema com aplicação web que seja acessível a todos os envolvidos no projeto, além da possibilidade de apoiar o modelo de negócio social que está sendo implementado para a montagem, distribuição e suporte da CRIA.
 
 Este é o propósito desta aplicação web.
-# cria_02
-# cria_01
-# cria-01
-# cria-01
+
